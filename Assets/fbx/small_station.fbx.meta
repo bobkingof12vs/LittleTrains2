@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: c43c9ff39f3d549e693629641d14bf09
+timeCreated: 1475605632
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Lamp
+    100006: //RootNode
+    100008: Bone
+    100010: Bone.001
+    100012: Bone.002
+    100014: Bone.003
+    100016: Bone.003_end
+    100018: boundingBox
+    100020: path
+    100022: railOutline
+    100024: railPath
+    100026: rails
+    100028: station
+    100030: Cube.001
+    100032: Cube.002
+    100034: Cube.003
+    100036: bench
+    100038: boundingBoxBuildingBig
+    100040: boundingBoxbuildingSmall
+    100042: boundingBoxPlatform
+    100044: boundingBoxTrack
+    100046: boxes
+    400000: Camera
+    400002: Cube
+    400004: Lamp
+    400006: //RootNode
+    400008: Bone
+    400010: Bone.001
+    400012: Bone.002
+    400014: Bone.003
+    400016: Bone.003_end
+    400018: boundingBox
+    400020: path
+    400022: railOutline
+    400024: railPath
+    400026: rails
+    400028: station
+    400030: Cube.001
+    400032: Cube.002
+    400034: Cube.003
+    400036: bench
+    400038: boundingBoxBuildingBig
+    400040: boundingBoxbuildingSmall
+    400042: boundingBoxPlatform
+    400044: boundingBoxTrack
+    400046: boxes
+    2300000: Cube
+    2300002: boundingBox
+    2300004: railOutline
+    2300006: railPath
+    2300008: rails
+    2300010: station
+    2300012: Cube.001
+    2300014: Cube.002
+    2300016: Cube.003
+    2300018: bench
+    2300020: boundingBoxBuildingBig
+    2300022: boundingBoxbuildingSmall
+    2300024: boundingBoxPlatform
+    2300026: boundingBoxTrack
+    2300028: boxes
+    3300000: Cube
+    3300002: boundingBox
+    3300004: railOutline
+    3300006: railPath
+    3300008: rails
+    3300010: station
+    3300012: Cube.001
+    3300014: Cube.002
+    3300016: Cube.003
+    3300018: bench
+    3300020: boundingBoxBuildingBig
+    3300022: boundingBoxbuildingSmall
+    3300024: boundingBoxPlatform
+    3300026: boundingBoxTrack
+    3300028: boxes
+    4300000: Cube
+    4300002: rails
+    4300004: railOutline
+    4300006: railPath
+    4300008: boundingBox
+    4300010: station
+    4300012: Cube.001
+    4300014: Cube.003
+    4300016: Cube.002
+    4300018: boundingBoxPlatform
+    4300020: boundingBoxbuildingSmall
+    4300022: boundingBoxBuildingBig
+    4300024: bench
+    4300026: boxes
+    4300028: boundingBoxTrack
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

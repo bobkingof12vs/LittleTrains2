@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 823d2c86ed719471894cbbb8c02ae209
+timeCreated: 1474496051
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boundingBox
+    100002: pathLeft
+    100004: pathStraight
+    100006: rails
+    100008: railsOutline
+    100010: sign
+    100012: sign 1
+    100014: sign_end
+    100016: signControl
+    100018: //RootNode
+    100020: Bone
+    100022: Bone 1
+    100024: Bone.001
+    100026: Bone.001 1
+    100028: Bone.002
+    100030: Bone.002 1
+    100032: Bone.003
+    100034: Bone.003 1
+    100036: Bone.004
+    100038: Bone.004 1
+    100040: Bone.005
+    100042: Bone.005 1
+    100044: Bone.005_end
+    100046: Bone.005_end 1
+    100048: railsPathLeft
+    100050: railsPathStraight
+    100052: Bone.006
+    100054: Bone.007
+    100056: Bone.007_end
+    100058: boundingBox1
+    100060: boundingBox2
+    100062: boundingBox3
+    100064: path
+    100066: ties
+    400000: boundingBox
+    400002: pathLeft
+    400004: pathStraight
+    400006: rails
+    400008: railsOutline
+    400010: sign
+    400012: sign 1
+    400014: sign_end
+    400016: signControl
+    400018: //RootNode
+    400020: Bone
+    400022: Bone 1
+    400024: Bone.001
+    400026: Bone.001 1
+    400028: Bone.002
+    400030: Bone.002 1
+    400032: Bone.003
+    400034: Bone.003 1
+    400036: Bone.004
+    400038: Bone.004 1
+    400040: Bone.005
+    400042: Bone.005 1
+    400044: Bone.005_end
+    400046: Bone.005_end 1
+    400048: railsPathLeft
+    400050: railsPathStraight
+    400052: Bone.006
+    400054: Bone.007
+    400056: Bone.007_end
+    400058: boundingBox1
+    400060: boundingBox2
+    400062: boundingBox3
+    400064: path
+    400066: ties
+    2300000: boundingBox
+    2300002: pathLeft
+    2300004: pathStraight
+    2300006: rails
+    2300008: railsOutline
+    2300010: railsPathLeft
+    2300012: railsPathStraight
+    2300014: boundingBox1
+    2300016: boundingBox2
+    2300018: boundingBox3
+    2300020: ties
+    3300000: boundingBox
+    3300002: pathLeft
+    3300004: pathStraight
+    3300006: rails
+    3300008: railsOutline
+    3300010: railsPathLeft
+    3300012: railsPathStraight
+    3300014: boundingBox1
+    3300016: boundingBox2
+    3300018: boundingBox3
+    3300020: ties
+    4300000: boundingBox
+    4300002: sign
+    4300004: rails
+    4300006: pathLeft
+    4300008: railsOutline
+    4300010: pathStraight
+    4300012: railsPathLeft
+    4300014: railsPathStraight
+    4300016: boundingBox3
+    4300018: boundingBox2
+    4300020: boundingBox1
+    4300022: ties
+    7400000: position1
+    7400002: position2
+    9500000: //RootNode
+    13700000: sign
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: position1
+      takeName: signControl|signAction
+      firstFrame: 10
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boundingBox
+        weight: 1
+      - path: pathLeft
+        weight: 1
+      - path: pathLeft/Bone
+        weight: 1
+      - path: pathLeft/Bone/Bone.001
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: pathStraight
+        weight: 1
+      - path: pathStraight/Bone 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1/Bone.003 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1/Bone.003 1/Bone.004 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1/Bone.003 1/Bone.004 1/Bone.005
+          1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1/Bone.003 1/Bone.004 1/Bone.005
+          1/Bone.005_end 1
+        weight: 1
+      - path: rails
+        weight: 1
+      - path: railsOutline
+        weight: 1
+      - path: railsPathLeft
+        weight: 1
+      - path: railsPathStraight
+        weight: 1
+      - path: sign
+        weight: 1
+      - path: signControl
+        weight: 1
+      - path: signControl/sign 1
+        weight: 1
+      - path: signControl/sign 1/sign_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: position2
+      takeName: signControl|signAction
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boundingBox
+        weight: 1
+      - path: pathLeft
+        weight: 1
+      - path: pathLeft/Bone
+        weight: 1
+      - path: pathLeft/Bone/Bone.001
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: pathLeft/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: pathStraight
+        weight: 1
+      - path: pathStraight/Bone 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1/Bone.003 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1/Bone.003 1/Bone.004 1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1/Bone.003 1/Bone.004 1/Bone.005
+          1
+        weight: 1
+      - path: pathStraight/Bone 1/Bone.001 1/Bone.002 1/Bone.003 1/Bone.004 1/Bone.005
+          1/Bone.005_end 1
+        weight: 1
+      - path: rails
+        weight: 1
+      - path: railsOutline
+        weight: 1
+      - path: railsPathLeft
+        weight: 1
+      - path: railsPathStraight
+        weight: 1
+      - path: sign
+        weight: 1
+      - path: signControl
+        weight: 1
+      - path: signControl/sign 1
+        weight: 1
+      - path: signControl/sign 1/sign_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
